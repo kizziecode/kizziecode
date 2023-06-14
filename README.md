@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kizziecode&label=Profile%20views&color=0e75b6&style=flat" alt="kizziecode" /> </p>
 
-- 🌱 I’m currently learning **ReactJS to create web apps**
+- 🌱 I’m currently learning **algorithms and data structures.**
+
+- 📚 Programming books that I have read include: 
+  HTML&CSS Jon Duckett
+  Javascript&JQuery Jon Duckett
 
 - 📫 How to reach me **kizziecode@gmail.com**
 
